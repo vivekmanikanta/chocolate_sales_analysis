@@ -44,14 +44,3 @@ The dashboard provides insights into sales trends, product performance, shipment
 ## Dashboard Preview
 
 <img width="573" height="326" alt="image" src="https://github.com/user-attachments/assets/648808d7-b5b7-47ce-9cf6-714240aa94f4" />
-
-
----
-
-## Files
-
-- Chocolate_Sales_Analysis.pbix
-- chocolate_sales.csv
-- Dashboard.png
-
----
